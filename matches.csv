@@ -1,0 +1,745 @@
+DATE,SEASON,HOME_TEAM,AWAY_TEAM,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,Winner
+9/15/2021,2021-2022,Man City,Leipzig,6,3,Man City
+9/15/2021,2021-2022,Club Brugge,Paris,1,1,Draw
+9/28/2021,2021-2022,Paris,Man City,2,0,Paris
+9/28/2021,2021-2022,Leipzig,Club Brugge,1,2,Club Brugge
+10/19/2021,2021-2022,Club Brugge,Man City,1,5,Man City
+10/19/2021,2021-2022,Paris,Leipzig,3,2,Paris
+11/3/2021,2021-2022,Leipzig,Paris,2,2,Draw
+11/3/2021,2021-2022,Man City,Club Brugge,4,1,Man City
+11/24/2021,2021-2022,Man City,Paris,2,1,Man City
+11/24/2021,2021-2022,Club Brugge,Leipzig,0,5,Leipzig
+12/7/2021,2021-2022,Leipzig,Man City,2,1,Leipzig
+12/7/2021,2021-2022,Paris,Club Brugge,4,1,Paris
+9/15/2021,2021-2022,Atletico,Porto,0,0,Draw
+9/15/2021,2021-2022,Liverpool,Milan,3,2,Liverpool
+9/28/2021,2021-2022,Porto,Liverpool,1,5,Liverpool
+9/28/2021,2021-2022,Milan,Atletico,1,2,Atletico
+10/19/2021,2021-2022,Atletico,Liverpool,2,3,Liverpool
+10/19/2021,2021-2022,Porto,Milan,1,0,Porto
+11/3/2021,2021-2022,Milan,Porto,1,1,Draw
+11/3/2021,2021-2022,Liverpool,Atletico,2,0,Liverpool
+11/24/2021,2021-2022,Liverpool,Porto,2,0,Liverpool
+11/24/2021,2021-2022,Atletico,Milan,0,1,Milan
+12/7/2021,2021-2022,Porto,Atletico,1,3,Atletico
+12/7/2021,2021-2022,Milan,Liverpool,1,2,Liverpool
+9/15/2021,2021-2022,Besiktas,Dortmund,1,2,Dortmund
+9/15/2021,2021-2022,Sporting CP,Ajax,1,5,Ajax
+9/28/2021,2021-2022,Ajax,Besiktas,2,0,Ajax
+9/28/2021,2021-2022,Dortmund,Sporting CP,1,0,Dortmund
+10/19/2021,2021-2022,Besiktas,Sporting CP,1,4,Sporting CP
+10/19/2021,2021-2022,Ajax,Dortmund,4,0,Ajax
+11/3/2021,2021-2022,Dortmund,Ajax,1,3,Ajax
+11/3/2021,2021-2022,Sporting CP,Besiktas,4,0,Sporting CP
+11/24/2021,2021-2022,Besiktas,Ajax,1,2,Ajax
+11/24/2021,2021-2022,Sporting CP,Dortmund,3,1,Sporting CP
+12/7/2021,2021-2022,Ajax,Sporting CP,4,2,Ajax
+12/7/2021,2021-2022,Dortmund,Besiktas,5,0,Dortmund
+9/15/2021,2021-2022,FC Sheriff,Shakhtar Donetsk,2,0,FC Sheriff
+9/15/2021,2021-2022,Inter,Real Madrid,0,1,Real Madrid
+9/28/2021,2021-2022,Shakhtar Donetsk,Inter,0,0,Draw
+9/28/2021,2021-2022,Real Madrid,FC Sheriff,1,2,FC Sheriff
+10/19/2021,2021-2022,Shakhtar Donetsk,Real Madrid,0,5,Real Madrid
+10/19/2021,2021-2022,Inter,FC Sheriff,3,1,Inter
+11/3/2021,2021-2022,Real Madrid,Shakhtar Donetsk,2,1,Real Madrid
+11/3/2021,2021-2022,FC Sheriff,Inter,1,3,Inter
+11/24/2021,2021-2022,Inter,Shakhtar Donetsk,2,0,Inter
+11/24/2021,2021-2022,FC Sheriff,Real Madrid,0,3,Real Madrid
+12/7/2021,2021-2022,Real Madrid,Inter,2,0,Real Madrid
+12/7/2021,2021-2022,Shakhtar Donetsk,FC Sheriff,1,1,Draw
+9/14/2021,2021-2022,Barcelona,Bayern,0,3,Bayern
+9/14/2021,2021-2022,Dinamo Kiev,Benfica,0,0,Draw
+9/29/2021,2021-2022,Benfica,Barcelona,3,0,Benfica
+9/29/2021,2021-2022,Bayern,Dinamo Kiev,5,0,Bayern
+10/20/2021,2021-2022,Barcelona,Dinamo Kiev,1,0,Barcelona
+10/20/2021,2021-2022,Benfica,Bayern,0,4,Bayern
+11/2/2021,2021-2022,Bayern,Benfica,5,2,Bayern
+11/2/2021,2021-2022,Dinamo Kiev,Barcelona,0,1,Barcelona
+11/23/2021,2021-2022,Dinamo Kiev,Bayern,1,2,Bayern
+11/23/2021,2021-2022,Barcelona,Benfica,0,0,Draw
+12/8/2021,2021-2022,Bayern,Barcelona,3,0,Bayern
+12/8/2021,2021-2022,Benfica,Dinamo Kiev,2,0,Benfica
+9/14/2021,2021-2022,BSC Young Boys,Manchester United,2,1,BSC Young Boys
+9/14/2021,2021-2022,Villarreal CF,Atalanta,2,2,Draw
+9/29/2021,2021-2022,Atalanta,BSC Young Boys,1,0,Atalanta
+9/29/2021,2021-2022,Manchester United,Villarreal CF,2,1,Manchester United
+10/20/2021,2021-2022,Manchester United,Atalanta,3,2,Manchester United
+10/20/2021,2021-2022,BSC Young Boys,Villarreal CF,1,4,Villarreal CF
+11/2/2021,2021-2022,Atalanta,Manchester United,2,2,Draw
+11/2/2021,2021-2022,Villarreal CF,BSC Young Boys,2,0,Villarreal CF
+11/23/2021,2021-2022,Villarreal CF,Manchester United,0,2,Manchester United
+11/23/2021,2021-2022,BSC Young Boys,Atalanta,3,3,Draw
+12/8/2021,2021-2022,Manchester United,BSC Young Boys,1,1,Draw
+12/9/2021,2021-2022,Atalanta,Villarreal CF,2,3,Villarreal CF
+9/14/2021,2021-2022,Sevilla,Salzburg,1,1,Draw
+9/14/2021,2021-2022,Lille OSC,VfL Wolfsburg,0,0,Draw
+9/29/2021,2021-2022,Salzburg,Lille OSC,2,1,Salzburg
+9/29/2021,2021-2022,VfL Wolfsburg,Sevilla,1,1,Draw
+10/20/2021,2021-2022,Salzburg,VfL Wolfsburg,3,1,Salzburg
+10/20/2021,2021-2022,Lille OSC,Sevilla,0,0,Draw
+11/2/2021,2021-2022,VfL Wolfsburg,Salzburg,2,1,VfL Wolfsburg
+11/2/2021,2021-2022,Sevilla,Lille OSC,1,2,Lille OSC
+11/23/2021,2021-2022,Lille OSC,Salzburg,1,0,Lille OSC
+11/23/2021,2021-2022,Sevilla,VfL Wolfsburg,2,0,Sevilla
+12/8/2021,2021-2022,Salzburg,Sevilla,1,0,Salzburg
+12/8/2021,2021-2022,VfL Wolfsburg,Lille OSC,1,3,Lille OSC
+9/14/2021,2021-2022,Chelsea,Zenit St Petersburg,1,0,Chelsea
+9/14/2021,2021-2022,Malmo FF,Juventus,0,3,Juventus
+9/29/2021,2021-2022,Zenit St Petersburg,Malmo FF,4,0,Zenit St Petersburg
+9/29/2021,2021-2022,Juventus,Chelsea,1,0,Juventus
+10/20/2021,2021-2022,Zenit St Petersburg,Juventus,0,1,Juventus
+10/20/2021,2021-2022,Chelsea,Malmo FF,4,0,Chelsea
+11/2/2021,2021-2022,Malmo FF,Chelsea,0,1,Chelsea
+11/2/2021,2021-2022,Juventus,Zenit St Petersburg,4,2,Juventus
+11/23/2021,2021-2022,Chelsea,Juventus,4,0,Chelsea
+11/23/2021,2021-2022,Malmo FF,Zenit St Petersburg,1,1,Draw
+12/8/2021,2021-2022,Zenit St Petersburg,Chelsea,3,3,Draw
+12/8/2021,2021-2022,Juventus,Malmo FF,1,0,Juventus
+2/15/2022,2021-2022,Sporting CP,Man City,0,5,Man City
+2/15/2022,2021-2022,Paris,Real Madrid,1,0,Paris
+2/16/2022,2021-2022,Salzburg,Bayern,1,1,Draw
+2/16/2022,2021-2022,Inter,Liverpool,0,2,Liverpool
+2/22/2022,2021-2022,Chelsea,Lille OSC,2,0,Chelsea
+2/22/2022,2021-2022,Villarreal CF,Juventus,1,1,Draw
+2/23/2022,2021-2022,Benfica,Ajax,2,2,Draw
+2/23/2022,2021-2022,Atletico,Manchester United,1,1,Draw
+3/8/2022,2021-2022,Bayern,Salzburg,7,1,Bayern
+3/8/2022,2021-2022,Liverpool,Inter,0,1,Inter
+3/9/2022,2021-2022,Man City,Sporting CP,0,0,Draw
+3/9/2022,2021-2022,Real Madrid,Paris,3,1,Real Madrid
+3/15/2022,2021-2022,Ajax,Benfica,0,1,Benfica
+3/15/2022,2021-2022,Manchester United,Atletico,0,1,Atletico
+3/16/2022,2021-2022,Lille OSC,Chelsea,1,2,Chelsea
+3/16/2022,2021-2022,Juventus,Villarreal CF,0,3,Villarreal CF
+4/5/2022,2021-2022,Man City,Atletico,1,0,Man City
+4/5/2022,2021-2022,Benfica,Liverpool,1,3,Liverpool
+4/6/2022,2021-2022,Chelsea,Real Madrid,1,3,Real Madrid
+4/6/2022,2021-2022,Villarreal CF,Bayern,1,0,Villarreal CF
+4/12/2022,2021-2022,Real Madrid,Chelsea,2,3,Chelsea
+4/12/2022,2021-2022,Bayern,Villarreal CF,1,1,Draw
+4/13/2022,2021-2022,Atletico,Man City,0,0,Draw
+4/13/2022,2021-2022,Liverpool,Benfica,3,3,Draw
+4/26/2022,2021-2022,Man City,Real Madrid,4,3,Man City
+4/27/2022,2021-2022,Liverpool,Villarreal CF,2,0,Liverpool
+5/3/2022,2021-2022,Villarreal CF,Liverpool,2,3,Liverpool
+5/4/2022,2021-2022,Real Madrid,Man City,3,1,Real Madrid
+5/28/2022,2021-2022,Liverpool,Real Madrid,0,1,Real Madrid
+10/21/2020,2020-2021,Salzburg,Lokomotiv Moskva,2,2,Draw
+10/21/2020,2020-2021,Bayern,Atletico,4,0,Bayern
+10/27/2020,2020-2021,Lokomotiv Moskva,Bayern,1,2,Bayern
+10/27/2020,2020-2021,Atletico,Salzburg,3,2,Atletico
+11/3/2020,2020-2021,Lokomotiv Moskva,Atletico,1,1,Draw
+11/3/2020,2020-2021,Salzburg,Bayern,2,6,Bayern
+11/25/2020,2020-2021,Atletico,Lokomotiv Moskva,0,0,Draw
+11/25/2020,2020-2021,Bayern,Salzburg,3,1,Bayern
+12/1/2020,2020-2021,Lokomotiv Moskva,Salzburg,1,3,Salzburg
+12/1/2020,2020-2021,Atletico,Bayern,1,1,Draw
+12/9/2020,2020-2021,Bayern,Lokomotiv Moskva,2,0,Bayern
+12/9/2020,2020-2021,Salzburg,Atletico,0,2,Atletico
+10/21/2020,2020-2021,Real Madrid,Shakhtar Donetsk,2,3,Shakhtar Donetsk
+10/21/2020,2020-2021,Inter,Bor Monchengladbach,2,2,Draw
+10/27/2020,2020-2021,Shakhtar Donetsk,Inter,0,0,Draw
+10/27/2020,2020-2021,Bor Monchengladbach,Real Madrid,2,2,Draw
+11/3/2020,2020-2021,Shakhtar Donetsk,Bor Monchengladbach,0,6,Bor Monchengladbach
+11/3/2020,2020-2021,Real Madrid,Inter,3,2,Real Madrid
+11/25/2020,2020-2021,Bor Monchengladbach,Shakhtar Donetsk,4,0,Bor Monchengladbach
+11/25/2020,2020-2021,Inter,Real Madrid,0,2,Real Madrid
+12/1/2020,2020-2021,Shakhtar Donetsk,Real Madrid,2,0,Shakhtar Donetsk
+12/1/2020,2020-2021,Bor Monchengladbach,Inter,2,3,Inter
+12/9/2020,2020-2021,Inter,Shakhtar Donetsk,0,0,Draw
+12/9/2020,2020-2021,Real Madrid,Bor Monchengladbach,2,0,Real Madrid
+10/21/2020,2020-2021,Man City,Porto,3,1,Man City
+10/21/2020,2020-2021,Olympiakos Piraeus,Marseille,1,0,Olympiakos Piraeus
+10/27/2020,2020-2021,Porto,Olympiakos Piraeus,2,0,Porto
+10/27/2020,2020-2021,Marseille,Man City,0,3,Man City
+11/3/2020,2020-2021,Porto,Marseille,3,0,Porto
+11/3/2020,2020-2021,Man City,Olympiakos Piraeus,3,0,Man City
+11/25/2020,2020-2021,Olympiakos Piraeus,Man City,0,1,Man City
+11/25/2020,2020-2021,Marseille,Porto,0,2,Porto
+12/1/2020,2020-2021,Porto,Man City,0,0,Draw
+12/1/2020,2020-2021,Marseille,Olympiakos Piraeus,2,1,Marseille
+12/9/2020,2020-2021,Man City,Marseille,3,0,Man City
+12/9/2020,2020-2021,Olympiakos Piraeus,Porto,0,2,Porto
+10/21/2020,2020-2021,Ajax,Liverpool,0,1,Liverpool
+10/21/2020,2020-2021,FC Midtjylland,Atalanta,0,4,Atalanta
+10/27/2020,2020-2021,Atalanta,Ajax,2,2,Draw
+10/27/2020,2020-2021,Liverpool,FC Midtjylland,2,0,Liverpool
+11/3/2020,2020-2021,Atalanta,Liverpool,0,5,Liverpool
+11/3/2020,2020-2021,FC Midtjylland,Ajax,1,2,Ajax
+11/25/2020,2020-2021,Ajax,FC Midtjylland,3,1,Ajax
+11/25/2020,2020-2021,Liverpool,Atalanta,0,2,Atalanta
+12/1/2020,2020-2021,Atalanta,FC Midtjylland,1,1,Draw
+12/1/2020,2020-2021,Liverpool,Ajax,1,0,Liverpool
+12/9/2020,2020-2021,Ajax,Atalanta,0,1,Atalanta
+12/9/2020,2020-2021,FC Midtjylland,Liverpool,1,1,Draw
+10/20/2020,2020-2021,Chelsea,Sevilla,0,0,Draw
+10/20/2020,2020-2021,Stade Rennes,FK Krasnodar,1,1,Draw
+10/28/2020,2020-2021,FK Krasnodar,Chelsea,0,4,Chelsea
+10/28/2020,2020-2021,Sevilla,Stade Rennes,1,0,Sevilla
+11/4/2020,2020-2021,Chelsea,Stade Rennes,3,0,Chelsea
+11/4/2020,2020-2021,Sevilla,FK Krasnodar,3,2,Sevilla
+11/24/2020,2020-2021,Stade Rennes,Chelsea,1,2,Chelsea
+11/24/2020,2020-2021,FK Krasnodar,Sevilla,1,2,Sevilla
+12/2/2020,2020-2021,FK Krasnodar,Stade Rennes,1,0,FK Krasnodar
+12/2/2020,2020-2021,Sevilla,Chelsea,0,4,Chelsea
+12/8/2020,2020-2021,Chelsea,FK Krasnodar,1,1,Draw
+12/8/2020,2020-2021,Stade Rennes,Sevilla,1,3,Sevilla
+10/20/2020,2020-2021,Zenit St Petersburg,Club Brugge,1,2,Club Brugge
+10/20/2020,2020-2021,Lazio Roma,Dortmund,3,1,Lazio Roma
+10/28/2020,2020-2021,Dortmund,Zenit St Petersburg,2,0,Dortmund
+10/28/2020,2020-2021,Club Brugge,Lazio Roma,1,1,Draw
+11/4/2020,2020-2021,Zenit St Petersburg,Lazio Roma,1,1,Draw
+11/4/2020,2020-2021,Club Brugge,Dortmund,0,3,Dortmund
+11/24/2020,2020-2021,Dortmund,Club Brugge,3,0,Dortmund
+11/24/2020,2020-2021,Lazio Roma,Zenit St Petersburg,3,1,Lazio Roma
+12/2/2020,2020-2021,Dortmund,Lazio Roma,1,1,Draw
+12/2/2020,2020-2021,Club Brugge,Zenit St Petersburg,3,0,Club Brugge
+12/8/2020,2020-2021,Zenit St Petersburg,Dortmund,1,2,Dortmund
+12/8/2020,2020-2021,Lazio Roma,Club Brugge,2,2,Draw
+10/20/2020,2020-2021,Dinamo Kiev,Juventus,0,2,Juventus
+10/20/2020,2020-2021,Barcelona,Ferencvarosi TC,5,1,Barcelona
+10/28/2020,2020-2021,Ferencvarosi TC,Dinamo Kiev,2,2,Draw
+10/28/2020,2020-2021,Juventus,Barcelona,0,2,Barcelona
+11/4/2020,2020-2021,Barcelona,Dinamo Kiev,2,1,Barcelona
+11/4/2020,2020-2021,Ferencvarosi TC,Juventus,1,4,Juventus
+11/24/2020,2020-2021,Dinamo Kiev,Barcelona,0,4,Barcelona
+11/24/2020,2020-2021,Juventus,Ferencvarosi TC,2,1,Juventus
+12/2/2020,2020-2021,Juventus,Dinamo Kiev,3,0,Juventus
+12/2/2020,2020-2021,Ferencvarosi TC,Barcelona,0,3,Barcelona
+12/8/2020,2020-2021,Dinamo Kiev,Ferencvarosi TC,1,0,Dinamo Kiev
+12/8/2020,2020-2021,Barcelona,Juventus,0,3,Juventus
+10/20/2020,2020-2021,Leipzig,?stanbul Basaksehir,2,0,Leipzig
+10/20/2020,2020-2021,Paris,Manchester United,1,2,Manchester United
+10/28/2020,2020-2021,?stanbul Basaksehir,Paris,0,2,Paris
+10/28/2020,2020-2021,Manchester United,Leipzig,5,0,Manchester United
+11/4/2020,2020-2021,?stanbul Basaksehir,Manchester United,2,1,?stanbul Basaksehir
+11/4/2020,2020-2021,Leipzig,Paris,2,1,Leipzig
+11/24/2020,2020-2021,Manchester United,?stanbul Basaksehir,4,1,Manchester United
+11/24/2020,2020-2021,Paris,Leipzig,1,0,Paris
+12/2/2020,2020-2021,?stanbul Basaksehir,Leipzig,3,4,Leipzig
+12/2/2020,2020-2021,Manchester United,Paris,1,3,Paris
+12/8/2020,2020-2021,Leipzig,Manchester United,3,2,Leipzig
+12/9/2020,2020-2021,Paris,?stanbul Basaksehir,5,1,Paris
+2/16/2021,2020-2021,Leipzig,Liverpool,0,2,Liverpool
+2/16/2021,2020-2021,Barcelona,Paris,1,4,Paris
+2/17/2021,2020-2021,Porto,Juventus,2,1,Porto
+2/17/2021,2020-2021,Sevilla,Dortmund,2,3,Dortmund
+2/23/2021,2020-2021,Lazio Roma,Bayern,1,4,Bayern
+2/23/2021,2020-2021,Atletico,Chelsea,0,1,Chelsea
+2/24/2021,2020-2021,Bor Monchengladbach,Man City,0,2,Man City
+2/24/2021,2020-2021,Atalanta,Real Madrid,0,1,Real Madrid
+3/9/2021,2020-2021,Juventus,Porto,3,2,Juventus
+3/9/2021,2020-2021,Dortmund,Sevilla,2,2,Draw
+3/10/2021,2020-2021,Liverpool,Leipzig,2,0,Liverpool
+3/10/2021,2020-2021,Paris,Barcelona,1,1,Draw
+3/16/2021,2020-2021,Man City,Bor Monchengladbach,2,0,Man City
+3/16/2021,2020-2021,Real Madrid,Atalanta,3,1,Real Madrid
+3/17/2021,2020-2021,Bayern,Lazio Roma,2,1,Bayern
+3/17/2021,2020-2021,Chelsea,Atletico,2,0,Chelsea
+4/6/2021,2020-2021,Man City,Dortmund,2,1,Man City
+4/6/2021,2020-2021,Real Madrid,Liverpool,3,1,Real Madrid
+4/7/2021,2020-2021,Porto,Chelsea,0,2,Chelsea
+4/7/2021,2020-2021,Bayern,Paris,2,3,Paris
+4/13/2021,2020-2021,Chelsea,Porto,0,1,Porto
+4/13/2021,2020-2021,Paris,Bayern,0,1,Bayern
+4/14/2021,2020-2021,Dortmund,Man City,1,2,Man City
+4/14/2021,2020-2021,Liverpool,Real Madrid,0,0,Draw
+4/27/2021,2020-2021,Real Madrid,Chelsea,1,1,Draw
+4/28/2021,2020-2021,Paris,Man City,1,2,Man City
+5/4/2021,2020-2021,Man City,Paris,2,0,Man City
+5/5/2021,2020-2021,Chelsea,Real Madrid,2,0,Chelsea
+5/29/2021,2020-2021,Man City,Chelsea,0,1,Chelsea
+9/18/2019,2019-2020,Club Brugge,Galatasaray,0,0,Draw
+9/18/2019,2019-2020,Paris,Real Madrid,3,0,Paris
+10/1/2019,2019-2020,Real Madrid,Club Brugge,2,2,Draw
+10/1/2019,2019-2020,Galatasaray,Paris,0,1,Paris
+10/22/2019,2019-2020,Club Brugge,Paris,0,5,Paris
+10/22/2019,2019-2020,Galatasaray,Real Madrid,0,1,Real Madrid
+11/6/2019,2019-2020,Paris,Club Brugge,1,0,Paris
+11/6/2019,2019-2020,Real Madrid,Galatasaray,6,0,Real Madrid
+11/26/2019,2019-2020,Galatasaray,Club Brugge,1,1,Draw
+11/26/2019,2019-2020,Real Madrid,Paris,2,2,Draw
+12/11/2019,2019-2020,Paris,Galatasaray,5,0,Paris
+12/11/2019,2019-2020,Club Brugge,Real Madrid,1,3,Real Madrid
+9/18/2019,2019-2020,Olympiakos Piraeus,Tottenham,2,2,Draw
+9/18/2019,2019-2020,Bayern,Crvena Zvezda,3,0,Bayern
+10/1/2019,2019-2020,Tottenham,Bayern,2,7,Bayern
+10/1/2019,2019-2020,Crvena Zvezda,Olympiakos Piraeus,3,1,Crvena Zvezda
+10/22/2019,2019-2020,Tottenham,Crvena Zvezda,5,0,Tottenham
+10/22/2019,2019-2020,Olympiakos Piraeus,Bayern,2,3,Bayern
+11/6/2019,2019-2020,Bayern,Olympiakos Piraeus,2,0,Bayern
+11/6/2019,2019-2020,Crvena Zvezda,Tottenham,0,4,Tottenham
+11/26/2019,2019-2020,Tottenham,Olympiakos Piraeus,4,2,Tottenham
+11/26/2019,2019-2020,Crvena Zvezda,Bayern,0,6,Bayern
+12/11/2019,2019-2020,Bayern,Tottenham,3,1,Bayern
+12/11/2019,2019-2020,Olympiakos Piraeus,Crvena Zvezda,1,0,Olympiakos Piraeus
+9/18/2019,2019-2020,Shakhtar Donetsk,Man City,0,3,Man City
+9/18/2019,2019-2020,Dinamo Zagreb,Atalanta,4,0,Dinamo Zagreb
+10/1/2019,2019-2020,Atalanta,Shakhtar Donetsk,1,2,Shakhtar Donetsk
+10/1/2019,2019-2020,Man City,Dinamo Zagreb,2,0,Man City
+10/22/2019,2019-2020,Shakhtar Donetsk,Dinamo Zagreb,2,2,Draw
+10/22/2019,2019-2020,Man City,Atalanta,5,1,Man City
+11/6/2019,2019-2020,Dinamo Zagreb,Shakhtar Donetsk,3,3,Draw
+11/6/2019,2019-2020,Atalanta,Man City,1,1,Draw
+11/26/2019,2019-2020,Man City,Shakhtar Donetsk,1,1,Draw
+11/26/2019,2019-2020,Atalanta,Dinamo Zagreb,2,0,Atalanta
+12/11/2019,2019-2020,Shakhtar Donetsk,Atalanta,0,3,Atalanta
+12/11/2019,2019-2020,Dinamo Zagreb,Man City,1,4,Man City
+9/18/2019,2019-2020,Atletico,Juventus,2,2,Draw
+9/18/2019,2019-2020,Leverkusen,Lokomotiv Moskva,1,2,Lokomotiv Moskva
+10/1/2019,2019-2020,Juventus,Leverkusen,3,0,Juventus
+10/1/2019,2019-2020,Lokomotiv Moskva,Atletico,0,2,Atletico
+10/22/2019,2019-2020,Atletico,Leverkusen,1,0,Atletico
+10/22/2019,2019-2020,Juventus,Lokomotiv Moskva,2,1,Juventus
+11/6/2019,2019-2020,Lokomotiv Moskva,Juventus,1,2,Juventus
+11/6/2019,2019-2020,Leverkusen,Atletico,2,1,Leverkusen
+11/26/2019,2019-2020,Lokomotiv Moskva,Leverkusen,0,2,Leverkusen
+11/26/2019,2019-2020,Juventus,Atletico,1,0,Juventus
+12/11/2019,2019-2020,Atletico,Lokomotiv Moskva,2,0,Atletico
+12/11/2019,2019-2020,Leverkusen,Juventus,0,2,Juventus
+9/17/2019,2019-2020,Napoli,Liverpool,2,0,Napoli
+9/17/2019,2019-2020,Salzburg,KRC Genk,6,2,Salzburg
+10/2/2019,2019-2020,KRC Genk,Napoli,0,0,Draw
+10/2/2019,2019-2020,Liverpool,Salzburg,4,3,Liverpool
+10/23/2019,2019-2020,Salzburg,Napoli,2,3,Napoli
+10/23/2019,2019-2020,KRC Genk,Liverpool,1,4,Liverpool
+11/5/2019,2019-2020,Liverpool,KRC Genk,2,1,Liverpool
+11/5/2019,2019-2020,Napoli,Salzburg,1,1,Draw
+11/27/2019,2019-2020,Liverpool,Napoli,1,1,Draw
+11/27/2019,2019-2020,KRC Genk,Salzburg,1,4,Salzburg
+12/10/2019,2019-2020,Napoli,KRC Genk,4,0,Napoli
+12/10/2019,2019-2020,Salzburg,Liverpool,0,2,Liverpool
+9/17/2019,2019-2020,Inter,Slavia Praha,1,1,Draw
+9/17/2019,2019-2020,Dortmund,Barcelona,0,0,Draw
+10/2/2019,2019-2020,Slavia Praha,Dortmund,0,2,Dortmund
+10/2/2019,2019-2020,Barcelona,Inter,2,1,Barcelona
+10/23/2019,2019-2020,Inter,Dortmund,2,0,Inter
+10/23/2019,2019-2020,Slavia Praha,Barcelona,1,2,Barcelona
+11/5/2019,2019-2020,Barcelona,Slavia Praha,0,0,Draw
+11/5/2019,2019-2020,Dortmund,Inter,3,2,Dortmund
+11/27/2019,2019-2020,Barcelona,Dortmund,3,1,Barcelona
+11/27/2019,2019-2020,Slavia Praha,Inter,1,3,Inter
+12/10/2019,2019-2020,Dortmund,Slavia Praha,2,1,Dortmund
+12/10/2019,2019-2020,Inter,Barcelona,1,2,Barcelona
+9/17/2019,2019-2020,Olympique Lyon,Zenit St Petersburg,1,1,Draw
+9/17/2019,2019-2020,Benfica,Leipzig,1,2,Leipzig
+10/2/2019,2019-2020,Zenit St Petersburg,Benfica,3,1,Zenit St Petersburg
+10/2/2019,2019-2020,Leipzig,Olympique Lyon,0,2,Olympique Lyon
+10/23/2019,2019-2020,Leipzig,Zenit St Petersburg,2,1,Leipzig
+10/23/2019,2019-2020,Benfica,Olympique Lyon,2,1,Benfica
+11/5/2019,2019-2020,Zenit St Petersburg,Leipzig,0,2,Leipzig
+11/5/2019,2019-2020,Olympique Lyon,Benfica,3,1,Olympique Lyon
+11/27/2019,2019-2020,Zenit St Petersburg,Olympique Lyon,2,0,Zenit St Petersburg
+11/27/2019,2019-2020,Leipzig,Benfica,2,2,Draw
+12/10/2019,2019-2020,Benfica,Zenit St Petersburg,3,0,Benfica
+12/10/2019,2019-2020,Olympique Lyon,Leipzig,2,2,Draw
+9/17/2019,2019-2020,Chelsea,Valencia CF,0,1,Valencia CF
+9/17/2019,2019-2020,Ajax,Lille OSC,3,0,Ajax
+10/2/2019,2019-2020,Valencia CF,Ajax,0,3,Ajax
+10/2/2019,2019-2020,Lille OSC,Chelsea,1,2,Chelsea
+10/23/2019,2019-2020,Ajax,Chelsea,0,1,Chelsea
+10/23/2019,2019-2020,Lille OSC,Valencia CF,1,1,Draw
+11/5/2019,2019-2020,Chelsea,Ajax,4,4,Draw
+11/5/2019,2019-2020,Valencia CF,Lille OSC,4,1,Valencia CF
+11/27/2019,2019-2020,Valencia CF,Chelsea,2,2,Draw
+11/27/2019,2019-2020,Lille OSC,Ajax,0,2,Ajax
+12/10/2019,2019-2020,Chelsea,Lille OSC,2,1,Chelsea
+12/10/2019,2019-2020,Ajax,Valencia CF,0,1,Valencia CF
+2/18/2020,2019-2020,Dortmund,Paris,2,1,Dortmund
+2/18/2020,2019-2020,Atletico,Liverpool,1,0,Atletico
+2/19/2020,2019-2020,Atalanta,Valencia CF,4,1,Atalanta
+2/19/2020,2019-2020,Tottenham,Leipzig,0,1,Leipzig
+2/25/2020,2019-2020,Chelsea,Bayern,0,3,Bayern
+2/25/2020,2019-2020,Napoli,Barcelona,1,1,Draw
+2/26/2020,2019-2020,Real Madrid,Man City,1,2,Man City
+2/26/2020,2019-2020,Olympique Lyon,Juventus,1,0,Olympique Lyon
+3/10/2020,2019-2020,Valencia CF,Atalanta,3,4,Atalanta
+3/10/2020,2019-2020,Leipzig,Tottenham,3,0,Leipzig
+3/11/2020,2019-2020,Paris,Dortmund,2,0,Paris
+3/11/2020,2019-2020,Liverpool,Atletico,2,3,Atletico
+8/7/2020,2019-2020,Man City,Real Madrid,2,1,Man City
+8/7/2020,2019-2020,Juventus,Olympique Lyon,2,1,Juventus
+8/8/2020,2019-2020,Bayern,Chelsea,4,1,Bayern
+8/8/2020,2019-2020,Barcelona,Napoli,3,1,Barcelona
+8/12/2020,2019-2020,Atalanta,Paris,1,2,Paris
+8/13/2020,2019-2020,Leipzig,Atletico,2,1,Leipzig
+8/14/2020,2019-2020,Barcelona,Bayern,2,8,Bayern
+8/15/2020,2019-2020,Man City,Olympique Lyon,1,3,Olympique Lyon
+8/18/2020,2019-2020,Leipzig,Paris,0,3,Paris
+8/19/2020,2019-2020,Olympique Lyon,Bayern,0,3,Bayern
+8/23/2020,2019-2020,Paris,Bayern,0,1,Bayern
+9/18/2018,2018-2019,AS Monaco,Atletico,1,2,Atletico
+9/18/2018,2018-2019,Club Brugge,Dortmund,0,1,Dortmund
+10/3/2018,2018-2019,Dortmund,AS Monaco,3,0,Dortmund
+10/3/2018,2018-2019,Atletico,Club Brugge,3,1,Atletico
+10/24/2018,2018-2019,Club Brugge,AS Monaco,1,1,Draw
+10/24/2018,2018-2019,Dortmund,Atletico,4,0,Dortmund
+11/6/2018,2018-2019,AS Monaco,Club Brugge,0,4,Club Brugge
+11/6/2018,2018-2019,Atletico,Dortmund,2,0,Atletico
+11/28/2018,2018-2019,Atletico,AS Monaco,2,0,Atletico
+11/28/2018,2018-2019,Dortmund,Club Brugge,0,0,Draw
+12/11/2018,2018-2019,AS Monaco,Dortmund,0,2,Dortmund
+12/11/2018,2018-2019,Club Brugge,Atletico,0,0,Draw
+9/18/2018,2018-2019,Barcelona,PSV Eindhoven,4,0,Barcelona
+9/18/2018,2018-2019,Inter,Tottenham,2,1,Inter
+10/3/2018,2018-2019,Tottenham,Barcelona,2,4,Barcelona
+10/3/2018,2018-2019,PSV Eindhoven,Inter,1,2,Inter
+10/24/2018,2018-2019,PSV Eindhoven,Tottenham,2,2,Draw
+10/24/2018,2018-2019,Barcelona,Inter,2,0,Barcelona
+11/6/2018,2018-2019,Tottenham,PSV Eindhoven,2,1,Tottenham
+11/6/2018,2018-2019,Inter,Barcelona,1,1,Draw
+11/28/2018,2018-2019,PSV Eindhoven,Barcelona,1,2,Barcelona
+11/28/2018,2018-2019,Tottenham,Inter,1,0,Tottenham
+12/11/2018,2018-2019,Barcelona,Tottenham,1,1,Draw
+12/11/2018,2018-2019,Inter,PSV Eindhoven,1,1,Draw
+9/18/2018,2018-2019,Liverpool,Paris,3,2,Liverpool
+9/18/2018,2018-2019,Crvena Zvezda,Napoli,0,0,Draw
+10/3/2018,2018-2019,Paris,Crvena Zvezda,6,1,Paris
+10/3/2018,2018-2019,Napoli,Liverpool,1,0,Napoli
+10/24/2018,2018-2019,Paris,Napoli,2,2,Draw
+10/24/2018,2018-2019,Liverpool,Crvena Zvezda,4,0,Liverpool
+11/6/2018,2018-2019,Crvena Zvezda,Liverpool,2,0,Crvena Zvezda
+11/6/2018,2018-2019,Napoli,Paris,1,1,Draw
+11/28/2018,2018-2019,Paris,Liverpool,2,1,Paris
+11/28/2018,2018-2019,Napoli,Crvena Zvezda,3,1,Napoli
+12/11/2018,2018-2019,Liverpool,Napoli,1,0,Liverpool
+12/11/2018,2018-2019,Crvena Zvezda,Paris,1,4,Paris
+9/18/2018,2018-2019,FC Schalke 04,Porto,1,1,Draw
+9/18/2018,2018-2019,Galatasaray,Lokomotiv Moskva,3,0,Galatasaray
+10/3/2018,2018-2019,Lokomotiv Moskva,FC Schalke 04,0,1,FC Schalke Draw4
+10/3/2018,2018-2019,Porto,Galatasaray,1,0,Porto
+10/24/2018,2018-2019,Lokomotiv Moskva,Porto,1,3,Porto
+10/24/2018,2018-2019,Galatasaray,FC Schalke 04,0,0,Draw
+11/6/2018,2018-2019,Porto,Lokomotiv Moskva,4,1,Porto
+11/6/2018,2018-2019,FC Schalke 04,Galatasaray,2,0,FC Schalke Draw4
+11/28/2018,2018-2019,Lokomotiv Moskva,Galatasaray,2,0,Lokomotiv Moskva
+11/28/2018,2018-2019,Porto,FC Schalke 04,3,1,Porto
+12/11/2018,2018-2019,FC Schalke 04,Lokomotiv Moskva,1,0,FC Schalke Draw4
+12/11/2018,2018-2019,Galatasaray,Porto,2,3,Porto
+9/19/2018,2018-2019,Ajax,AEK Athen,3,0,Ajax
+9/19/2018,2018-2019,Benfica,Bayern,0,2,Bayern
+10/2/2018,2018-2019,Bayern,Ajax,1,1,Draw
+10/2/2018,2018-2019,AEK Athen,Benfica,2,3,Benfica
+10/23/2018,2018-2019,AEK Athen,Bayern,0,2,Bayern
+10/23/2018,2018-2019,Ajax,Benfica,1,0,Ajax
+11/7/2018,2018-2019,Benfica,Ajax,1,1,Draw
+11/7/2018,2018-2019,Bayern,AEK Athen,2,0,Bayern
+11/27/2018,2018-2019,AEK Athen,Ajax,0,2,Ajax
+11/27/2018,2018-2019,Bayern,Benfica,5,1,Bayern
+12/12/2018,2018-2019,Ajax,Bayern,3,3,Draw
+12/12/2018,2018-2019,Benfica,AEK Athen,1,0,Benfica
+9/19/2018,2018-2019,Shakhtar Donetsk,1899 Hoffenheim,2,2,Draw
+9/19/2018,2018-2019,Man City,Olympique Lyon,1,2,Olympique Lyon
+10/2/2018,2018-2019,1899 Hoffenheim,Man City,1,2,Man City
+10/2/2018,2018-2019,Olympique Lyon,Shakhtar Donetsk,2,2,Draw
+10/23/2018,2018-2019,Shakhtar Donetsk,Man City,0,3,Man City
+10/23/2018,2018-2019,1899 Hoffenheim,Olympique Lyon,3,3,Draw
+11/7/2018,2018-2019,Man City,Shakhtar Donetsk,6,0,Man City
+11/7/2018,2018-2019,Olympique Lyon,1899 Hoffenheim,2,2,Draw
+11/27/2018,2018-2019,Olympique Lyon,Man City,2,2,Draw
+11/27/2018,2018-2019,1899 Hoffenheim,Shakhtar Donetsk,2,3,Shakhtar Donetsk
+12/12/2018,2018-2019,Shakhtar Donetsk,Olympique Lyon,1,1,Draw
+12/12/2018,2018-2019,Man City,1899 Hoffenheim,2,1,Man City
+9/19/2018,2018-2019,Real Madrid,AS Roma,3,0,Real Madrid
+9/19/2018,2018-2019,Plzen,CSKA Moskva,2,2,Draw
+10/2/2018,2018-2019,CSKA Moskva,Real Madrid,1,0,CSKA Moskva
+10/2/2018,2018-2019,AS Roma,Plzen,5,0,AS Roma
+10/23/2018,2018-2019,AS Roma,CSKA Moskva,3,0,AS Roma
+10/23/2018,2018-2019,Real Madrid,Plzen,2,1,Real Madrid
+11/7/2018,2018-2019,CSKA Moskva,AS Roma,1,2,AS Roma
+11/7/2018,2018-2019,Plzen,Real Madrid,0,5,Real Madrid
+11/27/2018,2018-2019,CSKA Moskva,Plzen,1,2,Plzen
+11/27/2018,2018-2019,AS Roma,Real Madrid,0,2,Real Madrid
+12/12/2018,2018-2019,Real Madrid,CSKA Moskva,0,3,CSKA Moskva
+12/12/2018,2018-2019,Plzen,AS Roma,2,1,Plzen
+9/19/2018,2018-2019,Valencia CF,Juventus,0,2,Juventus
+9/19/2018,2018-2019,BSC Young Boys,Manchester United,0,3,Manchester United
+10/2/2018,2018-2019,Juventus,BSC Young Boys,3,0,Juventus
+10/2/2018,2018-2019,Manchester United,Valencia CF,0,0,Draw
+10/23/2018,2018-2019,BSC Young Boys,Valencia CF,1,1,Draw
+10/23/2018,2018-2019,Manchester United,Juventus,0,1,Juventus
+11/7/2018,2018-2019,Valencia CF,BSC Young Boys,3,1,Valencia CF
+11/7/2018,2018-2019,Juventus,Manchester United,1,2,Manchester United
+11/27/2018,2018-2019,Juventus,Valencia CF,1,0,Juventus
+11/27/2018,2018-2019,Manchester United,BSC Young Boys,1,0,Manchester United
+12/12/2018,2018-2019,Valencia CF,Manchester United,2,1,Valencia CF
+12/12/2018,2018-2019,BSC Young Boys,Juventus,2,1,BSC Young Boys
+2/12/2019,2018-2019,Manchester United,Paris,0,2,Paris
+2/12/2019,2018-2019,AS Roma,Porto,2,1,AS Roma
+2/13/2019,2018-2019,Tottenham,Dortmund,3,0,Tottenham
+2/13/2019,2018-2019,Ajax,Real Madrid,1,2,Real Madrid
+2/19/2019,2018-2019,Olympique Lyon,Barcelona,0,0,Draw
+2/19/2019,2018-2019,Liverpool,Bayern,0,0,Draw
+2/20/2019,2018-2019,FC Schalke 04,Man City,2,3,Man City
+2/20/2019,2018-2019,Atletico,Juventus,2,0,Atletico
+3/5/2019,2018-2019,Dortmund,Tottenham,0,1,Tottenham
+3/5/2019,2018-2019,Real Madrid,Ajax,1,4,Ajax
+3/6/2019,2018-2019,Paris,Manchester United,1,3,Manchester United
+3/6/2019,2018-2019,Porto,AS Roma,3,1,Porto
+3/12/2019,2018-2019,Man City,FC Schalke 04,7,0,Man City
+3/12/2019,2018-2019,Juventus,Atletico,3,0,Juventus
+3/13/2019,2018-2019,Barcelona,Olympique Lyon,5,1,Barcelona
+3/13/2019,2018-2019,Bayern,Liverpool,1,3,Liverpool
+4/9/2019,2018-2019,Liverpool,Porto,2,0,Liverpool
+4/9/2019,2018-2019,Tottenham,Man City,1,0,Tottenham
+4/10/2019,2018-2019,Ajax,Juventus,1,1,Draw
+4/10/2019,2018-2019,Manchester United,Barcelona,0,1,Barcelona
+4/16/2019,2018-2019,Juventus,Ajax,1,2,Ajax
+4/16/2019,2018-2019,Barcelona,Manchester United,3,0,Barcelona
+4/17/2019,2018-2019,Porto,Liverpool,1,4,Liverpool
+4/17/2019,2018-2019,Man City,Tottenham,4,3,Man City
+4/30/2019,2018-2019,Tottenham,Ajax,0,1,Ajax
+5/1/2019,2018-2019,Barcelona,Liverpool,3,0,Barcelona
+5/7/2019,2018-2019,Liverpool,Barcelona,4,0,Liverpool
+5/8/2019,2018-2019,Ajax,Tottenham,2,3,Tottenham
+6/1/2019,2018-2019,Tottenham,Liverpool,0,2,Liverpool
+9/12/2017,2017-2018,Manchester United,FC Basel,3,0,Manchester United
+9/12/2017,2017-2018,Benfica,CSKA Moskva,1,2,CSKA Moskva
+9/27/2017,2017-2018,FC Basel,Benfica,5,0,FC Basel
+9/27/2017,2017-2018,CSKA Moskva,Manchester United,1,4,Manchester United
+10/18/2017,2017-2018,Benfica,Manchester United,0,1,Manchester United
+10/18/2017,2017-2018,CSKA Moskva,FC Basel,0,2,FC Basel
+10/31/2017,2017-2018,Manchester United,Benfica,2,0,Manchester United
+10/31/2017,2017-2018,FC Basel,CSKA Moskva,1,2,CSKA Moskva
+11/22/2017,2017-2018,CSKA Moskva,Benfica,2,0,CSKA Moskva
+11/22/2017,2017-2018,FC Basel,Manchester United,1,0,FC Basel
+12/5/2017,2017-2018,Benfica,FC Basel,0,2,FC Basel
+12/5/2017,2017-2018,Manchester United,CSKA Moskva,2,1,Manchester United
+9/12/2017,2017-2018,Bayern,RSC Anderlecht,3,0,Bayern
+9/12/2017,2017-2018,Celtic,Paris,0,5,Paris
+9/27/2017,2017-2018,Paris,Bayern,3,0,Paris
+9/27/2017,2017-2018,RSC Anderlecht,Celtic,0,3,Celtic
+10/18/2017,2017-2018,RSC Anderlecht,Paris,0,4,Paris
+10/18/2017,2017-2018,Bayern,Celtic,3,0,Bayern
+10/31/2017,2017-2018,Paris,RSC Anderlecht,5,0,Paris
+10/31/2017,2017-2018,Celtic,Bayern,1,2,Bayern
+11/22/2017,2017-2018,RSC Anderlecht,Bayern,1,2,Bayern
+11/22/2017,2017-2018,Paris,Celtic,7,1,Paris
+12/5/2017,2017-2018,Bayern,Paris,3,1,Bayern
+12/5/2017,2017-2018,Celtic,RSC Anderlecht,0,1,RSC Anderlecht
+9/12/2017,2017-2018,AS Roma,Atletico,0,0,Draw
+9/12/2017,2017-2018,Chelsea,Qarabag FK,6,0,Chelsea
+9/27/2017,2017-2018,Qarabag FK,AS Roma,1,2,AS Roma
+9/27/2017,2017-2018,Atletico,Chelsea,1,2,Chelsea
+10/18/2017,2017-2018,Qarabag FK,Atletico,0,0,Draw
+10/18/2017,2017-2018,Chelsea,AS Roma,3,3,Draw
+10/31/2017,2017-2018,AS Roma,Chelsea,3,0,AS Roma
+10/31/2017,2017-2018,Atletico,Qarabag FK,1,1,Draw
+11/22/2017,2017-2018,Qarabag FK,Chelsea,0,4,Chelsea
+11/22/2017,2017-2018,Atletico,AS Roma,2,0,Atletico
+12/5/2017,2017-2018,Chelsea,Atletico,1,1,Draw
+12/5/2017,2017-2018,AS Roma,Qarabag FK,1,0,AS Roma
+9/12/2017,2017-2018,Barcelona,Juventus,3,0,Barcelona
+9/12/2017,2017-2018,Olympiakos Piraeus,Sporting CP,2,3,Sporting CP
+9/27/2017,2017-2018,Juventus,Olympiakos Piraeus,2,0,Juventus
+9/27/2017,2017-2018,Sporting CP,Barcelona,0,1,Barcelona
+10/18/2017,2017-2018,Barcelona,Olympiakos Piraeus,3,1,Barcelona
+10/18/2017,2017-2018,Juventus,Sporting CP,2,1,Juventus
+10/31/2017,2017-2018,Olympiakos Piraeus,Barcelona,0,0,Draw
+10/31/2017,2017-2018,Sporting CP,Juventus,1,1,Draw
+11/22/2017,2017-2018,Juventus,Barcelona,0,0,Draw
+11/22/2017,2017-2018,Sporting CP,Olympiakos Piraeus,3,1,Sporting CP
+12/5/2017,2017-2018,Barcelona,Sporting CP,2,0,Barcelona
+12/5/2017,2017-2018,Olympiakos Piraeus,Juventus,0,2,Juventus
+9/13/2017,2017-2018,Liverpool,Sevilla,2,2,Draw
+9/13/2017,2017-2018,NK Maribor,Spartak Moskva,1,1,Draw
+9/26/2017,2017-2018,Spartak Moskva,Liverpool,1,1,Draw
+9/26/2017,2017-2018,Sevilla,NK Maribor,3,0,Sevilla
+10/17/2017,2017-2018,Spartak Moskva,Sevilla,5,1,Spartak Moskva
+10/17/2017,2017-2018,NK Maribor,Liverpool,0,7,Liverpool
+11/1/2017,2017-2018,Sevilla,Spartak Moskva,2,1,Sevilla
+11/1/2017,2017-2018,Liverpool,NK Maribor,3,0,Liverpool
+11/21/2017,2017-2018,Spartak Moskva,NK Maribor,1,1,Draw
+11/21/2017,2017-2018,Sevilla,Liverpool,3,3,Draw
+12/6/2017,2017-2018,Liverpool,Spartak Moskva,7,0,Liverpool
+12/6/2017,2017-2018,NK Maribor,Sevilla,1,1,Draw
+9/13/2017,2017-2018,Shakhtar Donetsk,Napoli,2,1,Shakhtar Donetsk
+9/13/2017,2017-2018,Feyenoord,Man City,0,4,Man City
+9/26/2017,2017-2018,Man City,Shakhtar Donetsk,2,0,Man City
+9/26/2017,2017-2018,Napoli,Feyenoord,3,1,Napoli
+10/17/2017,2017-2018,Man City,Napoli,2,1,Man City
+10/17/2017,2017-2018,Feyenoord,Shakhtar Donetsk,1,2,Shakhtar Donetsk
+11/1/2017,2017-2018,Napoli,Man City,2,4,Man City
+11/1/2017,2017-2018,Shakhtar Donetsk,Feyenoord,3,1,Shakhtar Donetsk
+11/21/2017,2017-2018,Napoli,Shakhtar Donetsk,3,0,Napoli
+11/21/2017,2017-2018,Man City,Feyenoord,1,0,Man City
+12/6/2017,2017-2018,Shakhtar Donetsk,Man City,2,1,Shakhtar Donetsk
+12/6/2017,2017-2018,Feyenoord,Napoli,2,1,Feyenoord
+9/13/2017,2017-2018,Porto,Besiktas,1,3,Besiktas
+9/13/2017,2017-2018,Leipzig,AS Monaco,1,1,Draw
+9/26/2017,2017-2018,AS Monaco,Porto,0,3,Porto
+9/26/2017,2017-2018,Besiktas,Leipzig,2,0,Besiktas
+10/17/2017,2017-2018,AS Monaco,Besiktas,1,2,Besiktas
+10/17/2017,2017-2018,Leipzig,Porto,3,2,Leipzig
+11/1/2017,2017-2018,Besiktas,AS Monaco,1,1,Draw
+11/1/2017,2017-2018,Porto,Leipzig,3,1,Porto
+11/21/2017,2017-2018,Besiktas,Porto,1,1,Draw
+11/21/2017,2017-2018,AS Monaco,Leipzig,1,4,Leipzig
+12/6/2017,2017-2018,Porto,AS Monaco,5,2,Porto
+12/6/2017,2017-2018,Leipzig,Besiktas,1,2,Besiktas
+9/13/2017,2017-2018,Tottenham,Dortmund,3,1,Tottenham
+9/13/2017,2017-2018,Real Madrid,APOEL Nikosia,3,0,Real Madrid
+9/26/2017,2017-2018,Dortmund,Real Madrid,1,3,Real Madrid
+9/26/2017,2017-2018,APOEL Nikosia,Tottenham,0,3,Tottenham
+10/17/2017,2017-2018,Real Madrid,Tottenham,1,1,Draw
+10/17/2017,2017-2018,APOEL Nikosia,Dortmund,1,1,Draw
+11/1/2017,2017-2018,Tottenham,Real Madrid,3,1,Tottenham
+11/1/2017,2017-2018,Dortmund,APOEL Nikosia,1,1,Draw
+11/21/2017,2017-2018,Dortmund,Tottenham,1,2,Tottenham
+11/21/2017,2017-2018,APOEL Nikosia,Real Madrid,0,6,Real Madrid
+12/6/2017,2017-2018,Real Madrid,Dortmund,3,2,Real Madrid
+12/6/2017,2017-2018,Tottenham,APOEL Nikosia,3,0,Tottenham
+2/13/2018,2017-2018,Juventus,Tottenham,2,2,Draw
+2/13/2018,2017-2018,FC Basel,Man City,0,4,Man City
+2/14/2018,2017-2018,Porto,Liverpool,0,5,Liverpool
+2/14/2018,2017-2018,Real Madrid,Paris,3,1,Real Madrid
+2/20/2018,2017-2018,Chelsea,Barcelona,1,1,Draw
+2/20/2018,2017-2018,Bayern,Besiktas,5,0,Bayern
+2/21/2018,2017-2018,Sevilla,Manchester United,0,0,Draw
+2/21/2018,2017-2018,Shakhtar Donetsk,AS Roma,2,1,Shakhtar Donetsk
+3/6/2018,2017-2018,Liverpool,Porto,0,0,Draw
+3/6/2018,2017-2018,Paris,Real Madrid,1,2,Real Madrid
+3/7/2018,2017-2018,Tottenham,Juventus,1,2,Juventus
+3/7/2018,2017-2018,Man City,FC Basel,1,2,FC Basel
+3/13/2018,2017-2018,Manchester United,Sevilla,1,2,Sevilla
+3/13/2018,2017-2018,AS Roma,Shakhtar Donetsk,1,0,AS Roma
+3/14/2018,2017-2018,Besiktas,Bayern,1,3,Bayern
+3/14/2018,2017-2018,Barcelona,Chelsea,3,0,Barcelona
+4/3/2018,2017-2018,Sevilla,Bayern,1,2,Bayern
+4/3/2018,2017-2018,Juventus,Real Madrid,0,3,Real Madrid
+4/4/2018,2017-2018,Barcelona,AS Roma,4,1,Barcelona
+4/4/2018,2017-2018,Liverpool,Man City,3,0,Liverpool
+4/10/2018,2017-2018,AS Roma,Barcelona,3,0,AS Roma
+4/10/2018,2017-2018,Man City,Liverpool,1,2,Liverpool
+4/11/2018,2017-2018,Bayern,Sevilla,0,0,Draw
+4/11/2018,2017-2018,Real Madrid,Juventus,1,3,Juventus
+4/24/2018,2017-2018,Liverpool,AS Roma,5,2,Liverpool
+4/25/2018,2017-2018,Bayern,Real Madrid,1,2,Real Madrid
+5/1/2018,2017-2018,Real Madrid,Bayern,2,2,Draw
+5/2/2018,2017-2018,AS Roma,Liverpool,4,2,AS Roma
+5/26/2018,2017-2018,Real Madrid,Liverpool,3,1,Real Madrid
+9/13/2016,2016-2017,FC Basel,PFC Ludogorets Razgrad,1,1,Draw
+9/13/2016,2016-2017,Paris,Arsenal FC,1,1,Draw
+9/28/2016,2016-2017,Arsenal FC,FC Basel,2,0,Arsenal FC
+9/28/2016,2016-2017,PFC Ludogorets Razgrad,Paris,1,3,Paris
+10/19/2016,2016-2017,Arsenal FC,PFC Ludogorets Razgrad,6,0,Arsenal FC
+10/19/2016,2016-2017,Paris,FC Basel,3,0,Paris
+11/1/2016,2016-2017,FC Basel,Paris,1,2,Paris
+11/1/2016,2016-2017,PFC Ludogorets Razgrad,Arsenal FC,2,3,Arsenal FC
+11/23/2016,2016-2017,Arsenal FC,Paris,2,2,Draw
+11/23/2016,2016-2017,PFC Ludogorets Razgrad,FC Basel,0,0,Draw
+12/6/2016,2016-2017,FC Basel,Arsenal FC,1,4,Arsenal FC
+12/6/2016,2016-2017,Paris,PFC Ludogorets Razgrad,2,2,Draw
+9/13/2016,2016-2017,Dinamo Kiev,Napoli,1,2,Napoli
+9/13/2016,2016-2017,Benfica,Besiktas,1,1,Draw
+9/28/2016,2016-2017,Besiktas,Dinamo Kiev,1,1,Draw
+9/28/2016,2016-2017,Napoli,Benfica,4,2,Napoli
+10/19/2016,2016-2017,Dinamo Kiev,Benfica,0,2,Benfica
+10/19/2016,2016-2017,Napoli,Besiktas,2,3,Besiktas
+11/1/2016,2016-2017,Besiktas,Napoli,1,1,Draw
+11/1/2016,2016-2017,Benfica,Dinamo Kiev,1,0,Benfica
+11/23/2016,2016-2017,Besiktas,Benfica,3,3,Draw
+11/23/2016,2016-2017,Napoli,Dinamo Kiev,0,0,Draw
+12/6/2016,2016-2017,Dinamo Kiev,Besiktas,6,0,Dinamo Kiev
+12/6/2016,2016-2017,Benfica,Napoli,1,2,Napoli
+9/13/2016,2016-2017,Barcelona,Celtic,7,0,Barcelona
+9/14/2016,2016-2017,Man City,Bor Monchengladbach,4,0,Man City
+9/28/2016,2016-2017,Bor Monchengladbach,Barcelona,1,2,Barcelona
+9/28/2016,2016-2017,Celtic,Man City,3,3,Draw
+10/19/2016,2016-2017,Celtic,Bor Monchengladbach,0,2,Bor Monchengladbach
+10/19/2016,2016-2017,Barcelona,Man City,4,0,Barcelona
+11/1/2016,2016-2017,Bor Monchengladbach,Celtic,1,1,Draw
+11/1/2016,2016-2017,Man City,Barcelona,3,1,Man City
+11/23/2016,2016-2017,Bor Monchengladbach,Man City,1,1,Draw
+11/23/2016,2016-2017,Celtic,Barcelona,0,2,Barcelona
+12/6/2016,2016-2017,Barcelona,Bor Monchengladbach,4,0,Barcelona
+12/6/2016,2016-2017,Man City,Celtic,1,1,Draw
+9/13/2016,2016-2017,Bayern,FK Rostov,5,0,Bayern
+9/13/2016,2016-2017,PSV Eindhoven,Atletico,0,1,Atletico
+9/28/2016,2016-2017,Atletico,Bayern,1,0,Atletico
+9/28/2016,2016-2017,FK Rostov,PSV Eindhoven,2,2,Draw
+10/19/2016,2016-2017,Bayern,PSV Eindhoven,4,1,Bayern
+10/19/2016,2016-2017,FK Rostov,Atletico,0,1,Atletico
+11/1/2016,2016-2017,Atletico,FK Rostov,2,1,Atletico
+11/1/2016,2016-2017,PSV Eindhoven,Bayern,1,2,Bayern
+11/23/2016,2016-2017,FK Rostov,Bayern,3,2,FK Rostov
+11/23/2016,2016-2017,Atletico,PSV Eindhoven,2,0,Atletico
+12/6/2016,2016-2017,Bayern,Atletico,1,0,Bayern
+12/6/2016,2016-2017,PSV Eindhoven,FK Rostov,0,0,Draw
+9/14/2016,2016-2017,Leverkusen,CSKA Moskva,2,2,Draw
+9/14/2016,2016-2017,Tottenham,AS Monaco,1,2,AS Monaco
+9/27/2016,2016-2017,AS Monaco,Leverkusen,1,1,Draw
+9/27/2016,2016-2017,CSKA Moskva,Tottenham,0,1,Tottenham
+10/18/2016,2016-2017,Leverkusen,Tottenham,0,0,Draw
+10/18/2016,2016-2017,CSKA Moskva,AS Monaco,1,1,Draw
+11/2/2016,2016-2017,AS Monaco,CSKA Moskva,3,0,AS Monaco
+11/2/2016,2016-2017,Tottenham,Leverkusen,0,1,Leverkusen
+11/22/2016,2016-2017,CSKA Moskva,Leverkusen,1,1,Draw
+11/22/2016,2016-2017,AS Monaco,Tottenham,2,1,AS Monaco
+12/7/2016,2016-2017,Leverkusen,AS Monaco,3,0,Leverkusen
+12/7/2016,2016-2017,Tottenham,CSKA Moskva,3,1,Tottenham
+9/14/2016,2016-2017,Legia Warszawa,Dortmund,0,6,Dortmund
+9/14/2016,2016-2017,Real Madrid,Sporting CP,2,1,Real Madrid
+9/27/2016,2016-2017,Dortmund,Real Madrid,2,2,Draw
+9/27/2016,2016-2017,Sporting CP,Legia Warszawa,2,0,Sporting CP
+10/18/2016,2016-2017,Real Madrid,Legia Warszawa,5,1,Real Madrid
+10/18/2016,2016-2017,Sporting CP,Dortmund,1,2,Dortmund
+11/2/2016,2016-2017,Dortmund,Sporting CP,1,0,Dortmund
+11/2/2016,2016-2017,Legia Warszawa,Real Madrid,3,3,Draw
+11/22/2016,2016-2017,Dortmund,Legia Warszawa,8,4,Dortmund
+11/22/2016,2016-2017,Sporting CP,Real Madrid,1,2,Real Madrid
+12/7/2016,2016-2017,Legia Warszawa,Sporting CP,1,0,Legia Warszawa
+12/7/2016,2016-2017,Real Madrid,Dortmund,2,2,Draw
+9/14/2016,2016-2017,Club Brugge,Leicester City,0,3,Leicester City
+9/14/2016,2016-2017,Porto,FC Kobenhavn,1,1,Draw
+9/27/2016,2016-2017,FC Kobenhavn,Club Brugge,4,0,FC Kobenhavn
+9/27/2016,2016-2017,Leicester City,Porto,1,0,Leicester City
+10/18/2016,2016-2017,Club Brugge,Porto,1,2,Porto
+10/18/2016,2016-2017,Leicester City,FC Kobenhavn,1,0,Leicester City
+11/2/2016,2016-2017,FC Kobenhavn,Leicester City,0,0,Draw
+11/2/2016,2016-2017,Porto,Club Brugge,1,0,Porto
+11/22/2016,2016-2017,FC Kobenhavn,Porto,0,0,Draw
+11/22/2016,2016-2017,Leicester City,Club Brugge,2,1,Leicester City
+12/7/2016,2016-2017,Club Brugge,FC Kobenhavn,0,2,FC Kobenhavn
+12/7/2016,2016-2017,Porto,Leicester City,5,0,Porto
+9/14/2016,2016-2017,Juventus,Sevilla,0,0,Draw
+9/14/2016,2016-2017,Olympique Lyon,Dinamo Zagreb,3,0,Olympique Lyon
+9/27/2016,2016-2017,Dinamo Zagreb,Juventus,0,4,Juventus
+9/27/2016,2016-2017,Sevilla,Olympique Lyon,1,0,Sevilla
+10/18/2016,2016-2017,Dinamo Zagreb,Sevilla,0,1,Sevilla
+10/18/2016,2016-2017,Olympique Lyon,Juventus,0,1,Juventus
+11/2/2016,2016-2017,Juventus,Olympique Lyon,1,1,Draw
+11/2/2016,2016-2017,Sevilla,Dinamo Zagreb,4,0,Sevilla
+11/22/2016,2016-2017,Dinamo Zagreb,Olympique Lyon,0,1,Olympique Lyon
+11/22/2016,2016-2017,Sevilla,Juventus,1,3,Juventus
+12/7/2016,2016-2017,Juventus,Dinamo Zagreb,2,0,Juventus
+12/7/2016,2016-2017,Olympique Lyon,Sevilla,0,0,Draw
+2/14/2017,2016-2017,Benfica,Dortmund,1,0,Benfica
+2/14/2017,2016-2017,Paris,Barcelona,4,0,Paris
+2/15/2017,2016-2017,Real Madrid,Napoli,3,1,Real Madrid
+2/15/2017,2016-2017,Bayern,Arsenal FC,5,1,Bayern
+2/21/2017,2016-2017,Man City,AS Monaco,5,3,Man City
+2/21/2017,2016-2017,Leverkusen,Atletico,2,4,Atletico
+2/22/2017,2016-2017,Porto,Juventus,0,2,Juventus
+2/22/2017,2016-2017,Sevilla,Leicester City,2,1,Sevilla
+3/7/2017,2016-2017,Napoli,Real Madrid,1,3,Real Madrid
+3/7/2017,2016-2017,Arsenal FC,Bayern,1,5,Bayern
+3/8/2017,2016-2017,Dortmund,Benfica,4,0,Dortmund
+3/8/2017,2016-2017,Barcelona,Paris,6,1,Barcelona
+3/14/2017,2016-2017,Juventus,Porto,1,0,Juventus
+3/14/2017,2016-2017,Leicester City,Sevilla,2,0,Leicester City
+3/15/2017,2016-2017,AS Monaco,Man City,3,1,AS Monaco
+3/15/2017,2016-2017,Atletico,Leverkusen,0,0,Draw
+4/11/2017,2016-2017,Juventus,Barcelona,3,0,Juventus
+4/12/2017,2016-2017,Dortmund,AS Monaco,2,3,AS Monaco
+4/12/2017,2016-2017,Atletico,Leicester City,1,0,Atletico
+4/12/2017,2016-2017,Bayern,Real Madrid,1,2,Real Madrid
+4/18/2017,2016-2017,Leicester City,Atletico,1,1,Draw
+4/18/2017,2016-2017,Real Madrid,Bayern,4,2,Real Madrid
+4/19/2017,2016-2017,Barcelona,Juventus,0,0,Draw
+4/19/2017,2016-2017,AS Monaco,Dortmund,3,1,AS Monaco
+5/2/2017,2016-2017,Real Madrid,Atletico,3,0,Real Madrid
+5/3/2017,2016-2017,AS Monaco,Juventus,0,2,Juventus
+5/9/2017,2016-2017,Juventus,AS Monaco,2,1,Juventus
+5/10/2017,2016-2017,Atletico,Real Madrid,2,1,Atletico
+6/3/2017,2016-2017,Juventus,Real Madrid,1,4,Real Madrid
